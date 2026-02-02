@@ -1,4 +1,4 @@
-# Jeanette Hauw 👩🏻‍💻
+# Hi, it's Jean
 
 AI & Computer Science student with a strong interest in Machine Learning, Speech Recognition, and intelligent systems.
 
